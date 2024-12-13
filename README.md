@@ -17,7 +17,7 @@ This ledger should enable individuals to perform financial transactions, such as
 
 ## Installation
 
-Before running the application, install the following dependencies:
+Before running the application, import the following dependencies:
 
 ````
 import streamlit as st
