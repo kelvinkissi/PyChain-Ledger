@@ -29,13 +29,13 @@ import hashlib
 ````
 
 
-# Step 1:
+# Step 1: Created a **`Record`** Data Class
 
-# Step 2:
+# Step 2: Modified the Existing Block Data Class to Store **`Record`** Data
 
-# Step 3:
+# Step 3: Added Relevant User Inputs to the **`Streamlit`** interface.
 
-# Step 4:
+# Step 4: Tested the PyChain Ledger by Storing **`Records`**.
 
 # Transaction Record Stored in PyChain 
 
