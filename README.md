@@ -36,6 +36,9 @@ import hashlib
 
 # Step 2: Modified the Existing Block Data Class to Store **`Record`** Data
 
+![Display](Resources/Blockmodification.png)
+
+
 # Step 3: Added Relevant User Inputs to the **`Streamlit`** interface.
 
 # Step 4: Tested the PyChain Ledger by Storing **`Records`**.
