@@ -36,3 +36,7 @@ import hashlib
 # Step 3:
 
 # Step 4:
+
+# Transaction Record Stored in PyChain 
+
+![Display](Resources/Addingnewblock.png)
