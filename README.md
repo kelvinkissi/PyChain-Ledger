@@ -31,6 +31,9 @@ import hashlib
 
 # Step 1: Created a **`Record`** Data Class
 
+![Display](Resources/dataclass.png)
+
+
 # Step 2: Modified the Existing Block Data Class to Store **`Record`** Data
 
 # Step 3: Added Relevant User Inputs to the **`Streamlit`** interface.
