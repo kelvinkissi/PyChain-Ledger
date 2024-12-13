@@ -41,6 +41,8 @@ import hashlib
 
 # Step 3: Added Relevant User Inputs to the **`Streamlit`** interface.
 
+![Display](Resources/userinputs.png)
+
 # Step 4: Tested the PyChain Ledger by Storing **`Records`**.
 
 # Transaction Record Stored in PyChain 
