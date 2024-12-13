@@ -9,3 +9,8 @@ In this repository I used [Streamlit](https://streamlit.io/) for the web interfa
 This ledger should enable individuals to perform financial transactions, such as transferring money between senders and receivers, and to ensure the integrity of the data within it.
 
 # Objectives
+
+* Create a new data class named **Record**.
+* Modify the existing **Block** data class to store **Record** data.
+* Add Relevant User Inputs to the **Streamlit** interface.
+* Test the PyChain Ledger by Storing **Records**.
