@@ -28,7 +28,6 @@ import pandas as pd
 import hashlib
 ````
 
----
 
 # Step 1:
 
