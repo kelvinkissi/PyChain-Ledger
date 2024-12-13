@@ -40,3 +40,7 @@ import hashlib
 # Transaction Record Stored in PyChain 
 
 ![Display](Resources/Addingnewblock.png)
+
+# Blockchain Validation Process
+
+![Display](Resources/BlockchainvalidationPychain.png)
