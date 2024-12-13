@@ -15,6 +15,21 @@ This ledger should enable individuals to perform financial transactions, such as
 * Add Relevant User Inputs to the **`Streamlit`** interface.
 * Test the PyChain Ledger by Storing **`Records`**.
 
+## Installation
+
+Before running the application, install the following dependencies:
+
+````
+import streamlit as st
+from dataclasses import dataclass
+from typing import Any, List
+import datetime as datetime
+import pandas as pd
+import hashlib
+````
+
+---
+
 # Step 1:
 
 # Step 2:
