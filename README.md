@@ -45,6 +45,8 @@ import hashlib
 
 # Step 4: Tested the PyChain Ledger by Storing **`Records`**.
 
+The images below showcase the Streamlit UI interface displaying the results after storing transactions and validating records in the PyChain Ledger. Key details, including "Sender," "Receiver," "Amount," "Block," "Creator ID," and "Previous Hash," are provided for reference.
+
 # Transaction Record Stored in PyChain 
 
 ![Display](Resources/Addingnewblock.png)
